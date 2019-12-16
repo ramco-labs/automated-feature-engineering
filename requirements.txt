@@ -42,7 +42,7 @@ sortedcontainers==2.1.0
 tb-nightly==1.13.0a20190208
 tblib==1.4.0
 tensorboard==1.10.0
-tensorflow-gpu==1.10.0
+tensorflow-gpu==1.15.0
 termcolor==1.1.0
 tf-estimator-nightly==1.14.0.dev2019020801
 tf-nightly-gpu==1.13.0.dev20190207
