@@ -3,7 +3,7 @@ astor==0.7.1
 Click==7.0
 cloudpickle==0.8.1
 cycler==0.10.0
-dask==1.2.1
+dask==2021.10.0
 distributed==1.27.1
 featuretools==0.7.1
 Flask==1.0.2
